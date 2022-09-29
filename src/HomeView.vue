@@ -50,6 +50,7 @@ export default {
       }]
     }
   },
+
   computed: {
     validStages () {
       var examples = []
